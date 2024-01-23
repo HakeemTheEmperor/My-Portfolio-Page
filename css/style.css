@@ -200,6 +200,10 @@ a {
     border-radius: 10px;
 }
 
+.img2:hover {
+    border: 5px solid black;
+}
+
 .center {
     display: flex;
     align-items: center;
@@ -212,5 +216,4 @@ a {
     font-family: var(--FF-HEADINGS);
     margin: 10px 0;
 }
-
 
